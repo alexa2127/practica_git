@@ -1,8 +1,10 @@
 Hola este texto de prueba es para ayudar a dar un ejemplo, 
-no se que sera exactamente pero igual sigo escribiendo, 
+otro cambio mas pero este es mas interesante, 
 bueno y parece que tambien trabajaremos con este texto para mirar que cambios suceden a lo largo de él, 
 por cierto debe ser de varias lineas, y ya no se me ocurre que mas escribir.
 
 Debo cambiar el contenido para evidenciar
+
+El git esta mas interesante de lo que crei parece que me sirvio hacer las planas diarias de git en la empresa
 
 Att haru
