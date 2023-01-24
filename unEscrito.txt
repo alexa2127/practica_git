@@ -1,10 +1,12 @@
 Hola este texto de prueba es para ayudar a dar un ejemplo, 
 otro cambio mas pero este es mas interesante, 
+ya estoy entendiendo para que es, los commits son tan importantes  
 bueno y parece que tambien trabajaremos con este texto para mirar que cambios suceden a lo largo de él, 
 por cierto debe ser de varias lineas, y ya no se me ocurre que mas escribir.
 
-Debo cambiar el contenido para evidenciar
+Estoy en la segunda v2 o tal vez no? llegare al fondo de esto 
 
 El git esta mas interesante de lo que crei parece que me sirvio hacer las planas diarias de git en la empresa
 
 Att haru
+Att haru the neko 
